@@ -1,6 +1,6 @@
 
 
-const Features = () => {
+const HomeFeatures = () => {
     
     return (
         <>
@@ -18,4 +18,4 @@ const Features = () => {
     )
 }
 
-export default Features;
+export default HomeFeatures;
