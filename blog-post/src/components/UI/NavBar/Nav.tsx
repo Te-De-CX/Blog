@@ -55,7 +55,7 @@ const Nav = () => {
                 />
               </div>
               <span className="ml-3 text-lg font-bold text-white group-hover:text-yellow-400 transition-colors">
-                future<span className="text-yellow-400">Tech</span>
+                Future<span className="text-yellow-400">Tech</span>
               </span>
             </Link>
 
@@ -118,7 +118,7 @@ const Nav = () => {
                     />
                   </div>
                   <span className="ml-3 text-xl font-bold text-white">
-                    future<span className="text-yellow-400">Tech</span>
+                    Future<span className="text-yellow-400">Tech</span>
                   </span>
                 </Link>
                 <button
